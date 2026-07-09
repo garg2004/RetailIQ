@@ -1,0 +1,499 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost,supplier,initial_inventory
+PRD00001,Cameras Electronics Model-1,Electronics,Cameras,32460.74,25568.63,Global Electronics Supply Co,126
+PRD00002,Mobiles Electronics Model-2,Electronics,Mobiles,66493.82,46493.31,TechDistro Pvt Ltd,141
+PRD00003,Smartwatches Electronics Model-3,Electronics,Smartwatches,14102.7,7961.27,Global Electronics Supply Co,107
+PRD00004,Laptops Electronics Model-4,Electronics,Laptops,29030.86,17003.86,TechDistro Pvt Ltd,150
+PRD00005,Laptops Electronics Model-5,Electronics,Laptops,2728.12,2161.97,TechDistro Pvt Ltd,511
+PRD00006,Mobiles Electronics Model-6,Electronics,Mobiles,79838.37,43926.65,TechDistro Pvt Ltd,975
+PRD00007,Laptops Electronics Model-7,Electronics,Laptops,16405.16,10270.62,Global Electronics Supply Co,41
+PRD00008,Smartwatches Electronics Model-8,Electronics,Smartwatches,1592.58,885.1,TechDistro Pvt Ltd,494
+PRD00009,Cameras Electronics Model-9,Electronics,Cameras,52395.26,30644.6,TechDistro Pvt Ltd,495
+PRD00010,Laptops Electronics Model-10,Electronics,Laptops,82795.44,50355.59,TechDistro Pvt Ltd,977
+PRD00011,Mobiles Electronics Model-11,Electronics,Mobiles,66954.57,40167.28,Global Electronics Supply Co,586
+PRD00012,Cameras Electronics Model-12,Electronics,Cameras,83591.38,55729.6,Global Electronics Supply Co,504
+PRD00013,Cameras Electronics Model-13,Electronics,Cameras,52033.38,30836.6,Global Electronics Supply Co,186
+PRD00014,Cameras Electronics Model-14,Electronics,Cameras,2113.27,1660.08,Global Electronics Supply Co,33
+PRD00015,Headphones Electronics Model-15,Electronics,Headphones,68905.19,43145.22,TechDistro Pvt Ltd,584
+PRD00016,Headphones Electronics Model-16,Electronics,Headphones,20394.31,12445.76,Global Electronics Supply Co,975
+PRD00017,Laptops Electronics Model-17,Electronics,Laptops,11250.33,7580.41,TechDistro Pvt Ltd,962
+PRD00018,Cameras Electronics Model-18,Electronics,Cameras,15561.8,10080.39,Global Electronics Supply Co,581
+PRD00019,Mobiles Electronics Model-19,Electronics,Mobiles,56651.53,35573.07,TechDistro Pvt Ltd,409
+PRD00020,Laptops Electronics Model-20,Electronics,Laptops,18466.31,12777.3,TechDistro Pvt Ltd,496
+PRD00021,Headphones Electronics Model-21,Electronics,Headphones,82445.08,61321.27,Global Electronics Supply Co,181
+PRD00022,Laptops Electronics Model-22,Electronics,Laptops,34192.01,26726.69,Global Electronics Supply Co,882
+PRD00023,Mobiles Electronics Model-23,Electronics,Mobiles,78437.36,44875.83,Global Electronics Supply Co,746
+PRD00024,Mobiles Electronics Model-24,Electronics,Mobiles,44749.6,35365.3,Global Electronics Supply Co,744
+PRD00025,Mobiles Electronics Model-25,Electronics,Mobiles,33648.28,20789.16,Global Electronics Supply Co,72
+PRD00026,Laptops Electronics Model-26,Electronics,Laptops,50286.68,39792.55,TechDistro Pvt Ltd,207
+PRD00027,Cameras Electronics Model-27,Electronics,Cameras,46586.01,27263.58,TechDistro Pvt Ltd,34
+PRD00028,Mobiles Electronics Model-28,Electronics,Mobiles,14881.59,8243.05,TechDistro Pvt Ltd,540
+PRD00029,Cameras Electronics Model-29,Electronics,Cameras,65868.33,39499.85,TechDistro Pvt Ltd,491
+PRD00030,Cameras Electronics Model-30,Electronics,Cameras,2181.72,1308.4,Global Electronics Supply Co,411
+PRD00031,Mobiles Electronics Model-31,Electronics,Mobiles,62236.33,46230.24,TechDistro Pvt Ltd,792
+PRD00032,Headphones Electronics Model-32,Electronics,Headphones,78809.2,56172.77,TechDistro Pvt Ltd,47
+PRD00033,Smartwatches Electronics Model-33,Electronics,Smartwatches,73500.55,51878.49,Global Electronics Supply Co,949
+PRD00034,Cameras Electronics Model-34,Electronics,Cameras,9013.55,5793.05,TechDistro Pvt Ltd,593
+PRD00035,Mobiles Electronics Model-35,Electronics,Mobiles,28314.72,20737.74,TechDistro Pvt Ltd,891
+PRD00036,Mobiles Electronics Model-36,Electronics,Mobiles,24075.91,16619.86,Global Electronics Supply Co,758
+PRD00037,Smartwatches Electronics Model-37,Electronics,Smartwatches,11045.04,8044.23,TechDistro Pvt Ltd,788
+PRD00038,Laptops Electronics Model-38,Electronics,Laptops,61625.0,37529.39,Global Electronics Supply Co,417
+PRD00039,Mobiles Electronics Model-39,Electronics,Mobiles,42478.32,28914.28,TechDistro Pvt Ltd,34
+PRD00040,Laptops Electronics Model-40,Electronics,Laptops,10313.94,6805.49,Global Electronics Supply Co,710
+PRD00041,Mobiles Electronics Model-41,Electronics,Mobiles,3639.08,2580.48,TechDistro Pvt Ltd,583
+PRD00042,Laptops Electronics Model-42,Electronics,Laptops,48314.71,34974.01,TechDistro Pvt Ltd,504
+PRD00043,Laptops Electronics Model-43,Electronics,Laptops,21939.8,14317.82,TechDistro Pvt Ltd,190
+PRD00044,Mobiles Electronics Model-44,Electronics,Mobiles,18056.35,14187.12,Global Electronics Supply Co,858
+PRD00045,Smartwatches Electronics Model-45,Electronics,Smartwatches,25338.41,14957.4,Global Electronics Supply Co,597
+PRD00046,Laptops Electronics Model-46,Electronics,Laptops,53445.36,33345.01,TechDistro Pvt Ltd,665
+PRD00047,Mobiles Electronics Model-47,Electronics,Mobiles,39348.36,23790.42,TechDistro Pvt Ltd,359
+PRD00048,Mobiles Electronics Model-48,Electronics,Mobiles,75974.85,52030.28,TechDistro Pvt Ltd,525
+PRD00049,Smartwatches Electronics Model-49,Electronics,Smartwatches,11254.51,7192.47,Global Electronics Supply Co,209
+PRD00050,Mobiles Electronics Model-50,Electronics,Mobiles,10243.47,6217.62,TechDistro Pvt Ltd,977
+PRD00051,Laptops Electronics Model-51,Electronics,Laptops,1042.71,665.4,TechDistro Pvt Ltd,278
+PRD00052,Mobiles Electronics Model-52,Electronics,Mobiles,1582.99,1072.77,TechDistro Pvt Ltd,668
+PRD00053,Smartwatches Electronics Model-53,Electronics,Smartwatches,41725.2,30171.87,TechDistro Pvt Ltd,253
+PRD00054,Headphones Electronics Model-54,Electronics,Headphones,29359.01,23068.18,Global Electronics Supply Co,393
+PRD00055,Laptops Electronics Model-55,Electronics,Laptops,19375.41,13359.84,TechDistro Pvt Ltd,711
+PRD00056,Cameras Electronics Model-56,Electronics,Cameras,31544.25,25012.87,TechDistro Pvt Ltd,583
+PRD00057,Mobiles Electronics Model-57,Electronics,Mobiles,21736.84,15739.13,Global Electronics Supply Co,406
+PRD00058,Cameras Electronics Model-58,Electronics,Cameras,26273.08,16321.1,TechDistro Pvt Ltd,100
+PRD00059,Smartwatches Electronics Model-59,Electronics,Smartwatches,23408.87,18590.24,Global Electronics Supply Co,239
+PRD00060,Headphones Electronics Model-60,Electronics,Headphones,5323.27,3298.63,TechDistro Pvt Ltd,244
+PRD00061,Cameras Electronics Model-61,Electronics,Cameras,54285.15,39094.88,TechDistro Pvt Ltd,72
+PRD00062,Laptops Electronics Model-62,Electronics,Laptops,42113.52,33539.74,Global Electronics Supply Co,435
+PRD00063,Headphones Electronics Model-63,Electronics,Headphones,50786.12,28958.92,TechDistro Pvt Ltd,203
+PRD00064,Laptops Electronics Model-64,Electronics,Laptops,20960.79,15344.43,Global Electronics Supply Co,299
+PRD00065,Laptops Electronics Model-65,Electronics,Laptops,40504.72,32235.92,TechDistro Pvt Ltd,926
+PRD00066,Mobiles Electronics Model-66,Electronics,Mobiles,69580.09,52156.28,Global Electronics Supply Co,220
+PRD00067,Mobiles Electronics Model-67,Electronics,Mobiles,27944.85,16672.73,Global Electronics Supply Co,368
+PRD00068,Cameras Electronics Model-68,Electronics,Cameras,73102.0,46163.16,TechDistro Pvt Ltd,951
+PRD00069,Headphones Electronics Model-69,Electronics,Headphones,2392.39,1622.1,TechDistro Pvt Ltd,166
+PRD00070,Cameras Electronics Model-70,Electronics,Cameras,30287.29,17386.24,Global Electronics Supply Co,508
+PRD00071,Laptops Electronics Model-71,Electronics,Laptops,59038.46,38179.22,TechDistro Pvt Ltd,357
+PRD00072,Cameras Electronics Model-72,Electronics,Cameras,71367.49,51307.7,Global Electronics Supply Co,972
+PRD00073,Smartwatches Electronics Model-73,Electronics,Smartwatches,10530.89,8226.45,TechDistro Pvt Ltd,317
+PRD00074,Mobiles Electronics Model-74,Electronics,Mobiles,22666.35,16206.35,TechDistro Pvt Ltd,365
+PRD00075,Headphones Electronics Model-75,Electronics,Headphones,83502.12,56711.21,Global Electronics Supply Co,900
+PRD00076,Smartwatches Electronics Model-76,Electronics,Smartwatches,21314.83,12219.27,TechDistro Pvt Ltd,671
+PRD00077,Mobiles Electronics Model-77,Electronics,Mobiles,47896.21,36911.65,TechDistro Pvt Ltd,28
+PRD00078,Cameras Electronics Model-78,Electronics,Cameras,24424.47,17709.93,Global Electronics Supply Co,227
+PRD00079,Laptops Electronics Model-79,Electronics,Laptops,76357.16,58930.29,Global Electronics Supply Co,139
+PRD00080,Mobiles Electronics Model-80,Electronics,Mobiles,75572.58,57641.63,TechDistro Pvt Ltd,644
+PRD00081,Laptops Electronics Model-81,Electronics,Laptops,14575.97,11291.11,Global Electronics Supply Co,871
+PRD00082,Mobiles Electronics Model-82,Electronics,Mobiles,49777.26,32010.3,TechDistro Pvt Ltd,492
+PRD00083,Headphones Electronics Model-83,Electronics,Headphones,56733.81,31275.39,TechDistro Pvt Ltd,915
+PRD00084,Accessories Fashion Model-84,Fashion,Accessories,1734.52,1164.56,FabricWorld Wholesalers,182
+PRD00085,Footwear Fashion Model-85,Fashion,Footwear,3363.87,2038.73,FabricWorld Wholesalers,180
+PRD00086,Accessories Fashion Model-86,Fashion,Accessories,383.97,258.59,FabricWorld Wholesalers,835
+PRD00087,Women's Fashion Model-87,Fashion,Women's Clothing,3808.26,2713.04,Trendy Textiles Ltd,154
+PRD00088,Men's Fashion Model-88,Fashion,Men's Clothing,3688.14,2312.52,FabricWorld Wholesalers,707
+PRD00089,Men's Fashion Model-89,Fashion,Men's Clothing,739.37,474.62,Trendy Textiles Ltd,394
+PRD00090,Men's Fashion Model-90,Fashion,Men's Clothing,1476.42,1029.76,Trendy Textiles Ltd,249
+PRD00091,Accessories Fashion Model-91,Fashion,Accessories,2146.95,1659.62,Trendy Textiles Ltd,302
+PRD00092,Accessories Fashion Model-92,Fashion,Accessories,2341.09,1492.49,Trendy Textiles Ltd,628
+PRD00093,Footwear Fashion Model-93,Fashion,Footwear,3011.03,2026.81,Trendy Textiles Ltd,472
+PRD00094,Accessories Fashion Model-94,Fashion,Accessories,1381.1,931.96,Trendy Textiles Ltd,535
+PRD00095,Accessories Fashion Model-95,Fashion,Accessories,413.31,294.02,FabricWorld Wholesalers,36
+PRD00096,Men's Fashion Model-96,Fashion,Men's Clothing,4974.38,3320.33,Trendy Textiles Ltd,65
+PRD00097,Men's Fashion Model-97,Fashion,Men's Clothing,4599.78,2955.54,FabricWorld Wholesalers,764
+PRD00098,Men's Fashion Model-98,Fashion,Men's Clothing,4779.39,3023.86,FabricWorld Wholesalers,321
+PRD00099,Accessories Fashion Model-99,Fashion,Accessories,4843.24,3830.54,Trendy Textiles Ltd,135
+PRD00100,Accessories Fashion Model-100,Fashion,Accessories,1683.2,1087.81,Trendy Textiles Ltd,180
+PRD00101,Women's Fashion Model-101,Fashion,Women's Clothing,1788.85,1059.67,Trendy Textiles Ltd,812
+PRD00102,Footwear Fashion Model-102,Fashion,Footwear,2154.44,1639.64,Trendy Textiles Ltd,342
+PRD00103,Footwear Fashion Model-103,Fashion,Footwear,2978.86,1710.74,FabricWorld Wholesalers,307
+PRD00104,Footwear Fashion Model-104,Fashion,Footwear,3454.05,2209.42,Trendy Textiles Ltd,658
+PRD00105,Men's Fashion Model-105,Fashion,Men's Clothing,2735.67,2104.67,Trendy Textiles Ltd,804
+PRD00106,Footwear Fashion Model-106,Fashion,Footwear,4288.6,2505.21,Trendy Textiles Ltd,265
+PRD00107,Women's Fashion Model-107,Fashion,Women's Clothing,1988.97,1239.92,Trendy Textiles Ltd,778
+PRD00108,Men's Fashion Model-108,Fashion,Men's Clothing,2272.39,1395.37,Trendy Textiles Ltd,427
+PRD00109,Footwear Fashion Model-109,Fashion,Footwear,4592.14,3112.72,FabricWorld Wholesalers,844
+PRD00110,Accessories Fashion Model-110,Fashion,Accessories,3250.73,1945.78,FabricWorld Wholesalers,795
+PRD00111,Footwear Fashion Model-111,Fashion,Footwear,3598.95,2695.43,FabricWorld Wholesalers,991
+PRD00112,Footwear Fashion Model-112,Fashion,Footwear,4466.99,2487.69,Trendy Textiles Ltd,373
+PRD00113,Footwear Fashion Model-113,Fashion,Footwear,740.81,514.54,FabricWorld Wholesalers,873
+PRD00114,Footwear Fashion Model-114,Fashion,Footwear,1841.65,1084.29,FabricWorld Wholesalers,209
+PRD00115,Footwear Fashion Model-115,Fashion,Footwear,1646.03,1148.45,FabricWorld Wholesalers,361
+PRD00116,Women's Fashion Model-116,Fashion,Women's Clothing,1475.43,825.81,Trendy Textiles Ltd,802
+PRD00117,Footwear Fashion Model-117,Fashion,Footwear,1992.26,1159.03,FabricWorld Wholesalers,283
+PRD00118,Men's Fashion Model-118,Fashion,Men's Clothing,3918.74,2366.74,Trendy Textiles Ltd,24
+PRD00119,Footwear Fashion Model-119,Fashion,Footwear,2448.6,1862.17,FabricWorld Wholesalers,903
+PRD00120,Accessories Fashion Model-120,Fashion,Accessories,2232.77,1618.49,Trendy Textiles Ltd,955
+PRD00121,Men's Fashion Model-121,Fashion,Men's Clothing,3712.36,2947.48,Trendy Textiles Ltd,655
+PRD00122,Men's Fashion Model-122,Fashion,Men's Clothing,3658.31,2049.63,Trendy Textiles Ltd,139
+PRD00123,Men's Fashion Model-123,Fashion,Men's Clothing,1572.18,1037.23,Trendy Textiles Ltd,970
+PRD00124,Women's Fashion Model-124,Fashion,Women's Clothing,1478.3,881.19,Trendy Textiles Ltd,849
+PRD00125,Accessories Fashion Model-125,Fashion,Accessories,4228.94,3061.73,Trendy Textiles Ltd,660
+PRD00126,Men's Fashion Model-126,Fashion,Men's Clothing,1113.66,656.07,FabricWorld Wholesalers,821
+PRD00127,Accessories Fashion Model-127,Fashion,Accessories,1426.24,817.9,FabricWorld Wholesalers,620
+PRD00128,Men's Fashion Model-128,Fashion,Men's Clothing,3402.59,2109.55,FabricWorld Wholesalers,291
+PRD00129,Women's Fashion Model-129,Fashion,Women's Clothing,2727.99,1948.54,FabricWorld Wholesalers,600
+PRD00130,Men's Fashion Model-130,Fashion,Men's Clothing,3174.7,2079.11,Trendy Textiles Ltd,95
+PRD00131,Men's Fashion Model-131,Fashion,Men's Clothing,2959.94,1745.36,FabricWorld Wholesalers,105
+PRD00132,Accessories Fashion Model-132,Fashion,Accessories,366.66,212.3,Trendy Textiles Ltd,88
+PRD00133,Women's Fashion Model-133,Fashion,Women's Clothing,741.63,465.63,Trendy Textiles Ltd,977
+PRD00134,Men's Fashion Model-134,Fashion,Men's Clothing,3606.9,2411.37,FabricWorld Wholesalers,237
+PRD00135,Men's Fashion Model-135,Fashion,Men's Clothing,3887.58,2922.4,FabricWorld Wholesalers,631
+PRD00136,Men's Fashion Model-136,Fashion,Men's Clothing,1113.22,733.01,Trendy Textiles Ltd,42
+PRD00137,Men's Fashion Model-137,Fashion,Men's Clothing,524.93,413.27,FabricWorld Wholesalers,119
+PRD00138,Accessories Fashion Model-138,Fashion,Accessories,511.97,329.53,Trendy Textiles Ltd,781
+PRD00139,Women's Fashion Model-139,Fashion,Women's Clothing,4687.08,3165.0,Trendy Textiles Ltd,344
+PRD00140,Accessories Fashion Model-140,Fashion,Accessories,3514.31,2473.94,Trendy Textiles Ltd,355
+PRD00141,Footwear Fashion Model-141,Fashion,Footwear,3319.01,1847.45,Trendy Textiles Ltd,915
+PRD00142,Men's Fashion Model-142,Fashion,Men's Clothing,3290.73,2468.83,FabricWorld Wholesalers,927
+PRD00143,Footwear Fashion Model-143,Fashion,Footwear,2123.79,1509.64,FabricWorld Wholesalers,948
+PRD00144,Accessories Fashion Model-144,Fashion,Accessories,4112.47,3105.57,FabricWorld Wholesalers,287
+PRD00145,Women's Fashion Model-145,Fashion,Women's Clothing,2114.07,1670.74,FabricWorld Wholesalers,861
+PRD00146,Women's Fashion Model-146,Fashion,Women's Clothing,1270.62,785.87,Trendy Textiles Ltd,31
+PRD00147,Women's Fashion Model-147,Fashion,Women's Clothing,772.76,428.54,Trendy Textiles Ltd,518
+PRD00148,Men's Fashion Model-148,Fashion,Men's Clothing,3205.41,2032.67,FabricWorld Wholesalers,109
+PRD00149,Women's Fashion Model-149,Fashion,Women's Clothing,1798.5,1369.05,FabricWorld Wholesalers,621
+PRD00150,Footwear Fashion Model-150,Fashion,Footwear,1900.28,1169.0,FabricWorld Wholesalers,922
+PRD00151,Accessories Fashion Model-151,Fashion,Accessories,854.49,618.81,FabricWorld Wholesalers,512
+PRD00152,Footwear Fashion Model-152,Fashion,Footwear,4702.18,2632.26,FabricWorld Wholesalers,748
+PRD00153,Men's Fashion Model-153,Fashion,Men's Clothing,4076.16,2529.29,Trendy Textiles Ltd,413
+PRD00154,Men's Fashion Model-154,Fashion,Men's Clothing,2289.74,1584.8,Trendy Textiles Ltd,758
+PRD00155,Footwear Fashion Model-155,Fashion,Footwear,4955.36,3236.62,Trendy Textiles Ltd,997
+PRD00156,Women's Fashion Model-156,Fashion,Women's Clothing,1474.33,1024.86,FabricWorld Wholesalers,682
+PRD00157,Women's Fashion Model-157,Fashion,Women's Clothing,4674.49,3574.13,FabricWorld Wholesalers,388
+PRD00158,Footwear Fashion Model-158,Fashion,Footwear,3494.95,2568.71,FabricWorld Wholesalers,886
+PRD00159,Accessories Fashion Model-159,Fashion,Accessories,783.79,607.94,FabricWorld Wholesalers,81
+PRD00160,Women's Fashion Model-160,Fashion,Women's Clothing,2633.33,1704.83,Trendy Textiles Ltd,416
+PRD00161,Footwear Fashion Model-161,Fashion,Footwear,4508.85,2918.58,Trendy Textiles Ltd,415
+PRD00162,Women's Fashion Model-162,Fashion,Women's Clothing,4805.1,3660.46,Trendy Textiles Ltd,284
+PRD00163,Accessories Fashion Model-163,Fashion,Accessories,1800.09,1417.6,Trendy Textiles Ltd,403
+PRD00164,Men's Fashion Model-164,Fashion,Men's Clothing,2567.33,1728.47,Trendy Textiles Ltd,163
+PRD00165,Footwear Fashion Model-165,Fashion,Footwear,2407.14,1500.38,FabricWorld Wholesalers,44
+PRD00166,Accessories Fashion Model-166,Fashion,Accessories,2901.96,1750.41,FabricWorld Wholesalers,584
+PRD00167,Cookware Home Model-167,Home & Kitchen,Cookware,19830.95,14821.74,KitchenCraft Suppliers,128
+PRD00168,Home Home Model-168,Home & Kitchen,Home Decor,23286.97,18479.66,HomeEssentials Pvt Ltd,417
+PRD00169,Cookware Home Model-169,Home & Kitchen,Cookware,13827.87,9131.69,HomeEssentials Pvt Ltd,234
+PRD00170,Cookware Home Model-170,Home & Kitchen,Cookware,13738.26,9980.27,KitchenCraft Suppliers,770
+PRD00171,Storage Home Model-171,Home & Kitchen,Storage,3745.34,2772.97,KitchenCraft Suppliers,511
+PRD00172,Cookware Home Model-172,Home & Kitchen,Cookware,21698.21,16482.4,KitchenCraft Suppliers,193
+PRD00173,Cookware Home Model-173,Home & Kitchen,Cookware,17583.74,9990.92,HomeEssentials Pvt Ltd,965
+PRD00174,Home Home Model-174,Home & Kitchen,Home Decor,22318.94,13093.43,HomeEssentials Pvt Ltd,48
+PRD00175,Cookware Home Model-175,Home & Kitchen,Cookware,2303.06,1834.76,KitchenCraft Suppliers,515
+PRD00176,Cookware Home Model-176,Home & Kitchen,Cookware,21605.7,16638.33,KitchenCraft Suppliers,676
+PRD00177,Furniture Home Model-177,Home & Kitchen,Furniture,23691.71,18870.45,HomeEssentials Pvt Ltd,151
+PRD00178,Home Home Model-178,Home & Kitchen,Home Decor,8884.76,6459.62,HomeEssentials Pvt Ltd,806
+PRD00179,Cookware Home Model-179,Home & Kitchen,Cookware,19473.02,13428.62,KitchenCraft Suppliers,110
+PRD00180,Cookware Home Model-180,Home & Kitchen,Cookware,6367.61,4027.92,KitchenCraft Suppliers,145
+PRD00181,Storage Home Model-181,Home & Kitchen,Storage,12416.6,6864.37,KitchenCraft Suppliers,239
+PRD00182,Storage Home Model-182,Home & Kitchen,Storage,14372.1,10566.99,HomeEssentials Pvt Ltd,475
+PRD00183,Cookware Home Model-183,Home & Kitchen,Cookware,3113.77,2217.95,HomeEssentials Pvt Ltd,20
+PRD00184,Storage Home Model-184,Home & Kitchen,Storage,17089.46,10413.92,KitchenCraft Suppliers,524
+PRD00185,Cookware Home Model-185,Home & Kitchen,Cookware,9496.17,5901.19,KitchenCraft Suppliers,843
+PRD00186,Storage Home Model-186,Home & Kitchen,Storage,13303.11,8767.87,KitchenCraft Suppliers,77
+PRD00187,Cookware Home Model-187,Home & Kitchen,Cookware,500.44,396.58,KitchenCraft Suppliers,848
+PRD00188,Storage Home Model-188,Home & Kitchen,Storage,8201.95,4600.07,HomeEssentials Pvt Ltd,232
+PRD00189,Furniture Home Model-189,Home & Kitchen,Furniture,24825.52,14112.05,HomeEssentials Pvt Ltd,246
+PRD00190,Storage Home Model-190,Home & Kitchen,Storage,17445.89,9924.25,KitchenCraft Suppliers,66
+PRD00191,Cookware Home Model-191,Home & Kitchen,Cookware,15808.72,11444.52,KitchenCraft Suppliers,434
+PRD00192,Storage Home Model-192,Home & Kitchen,Storage,24896.61,18030.9,KitchenCraft Suppliers,278
+PRD00193,Furniture Home Model-193,Home & Kitchen,Furniture,22548.62,12657.93,HomeEssentials Pvt Ltd,31
+PRD00194,Furniture Home Model-194,Home & Kitchen,Furniture,23975.78,13533.51,KitchenCraft Suppliers,377
+PRD00195,Storage Home Model-195,Home & Kitchen,Storage,11499.74,8107.7,HomeEssentials Pvt Ltd,27
+PRD00196,Furniture Home Model-196,Home & Kitchen,Furniture,4407.23,3136.68,KitchenCraft Suppliers,667
+PRD00197,Cookware Home Model-197,Home & Kitchen,Cookware,8962.49,6237.12,KitchenCraft Suppliers,751
+PRD00198,Cookware Home Model-198,Home & Kitchen,Cookware,9135.92,5618.48,HomeEssentials Pvt Ltd,942
+PRD00199,Home Home Model-199,Home & Kitchen,Home Decor,17514.11,11980.07,HomeEssentials Pvt Ltd,948
+PRD00200,Storage Home Model-200,Home & Kitchen,Storage,10397.34,7285.37,HomeEssentials Pvt Ltd,771
+PRD00201,Cookware Home Model-201,Home & Kitchen,Cookware,4232.06,3291.41,HomeEssentials Pvt Ltd,272
+PRD00202,Storage Home Model-202,Home & Kitchen,Storage,23525.13,15389.19,HomeEssentials Pvt Ltd,728
+PRD00203,Storage Home Model-203,Home & Kitchen,Storage,15412.31,10088.29,HomeEssentials Pvt Ltd,843
+PRD00204,Cookware Home Model-204,Home & Kitchen,Cookware,21941.08,15093.2,HomeEssentials Pvt Ltd,24
+PRD00205,Storage Home Model-205,Home & Kitchen,Storage,852.93,549.39,HomeEssentials Pvt Ltd,84
+PRD00206,Furniture Home Model-206,Home & Kitchen,Furniture,12112.66,9645.57,HomeEssentials Pvt Ltd,798
+PRD00207,Home Home Model-207,Home & Kitchen,Home Decor,14934.04,9635.78,HomeEssentials Pvt Ltd,873
+PRD00208,Cookware Home Model-208,Home & Kitchen,Cookware,20763.1,14373.68,HomeEssentials Pvt Ltd,948
+PRD00209,Home Home Model-209,Home & Kitchen,Home Decor,11823.06,7728.79,KitchenCraft Suppliers,404
+PRD00210,Furniture Home Model-210,Home & Kitchen,Furniture,538.08,306.08,HomeEssentials Pvt Ltd,495
+PRD00211,Cookware Home Model-211,Home & Kitchen,Cookware,20359.76,16286.37,KitchenCraft Suppliers,889
+PRD00212,Cookware Home Model-212,Home & Kitchen,Cookware,22846.42,15907.67,KitchenCraft Suppliers,584
+PRD00213,Cookware Home Model-213,Home & Kitchen,Cookware,23630.13,18015.89,HomeEssentials Pvt Ltd,164
+PRD00214,Storage Home Model-214,Home & Kitchen,Storage,6178.14,3714.68,KitchenCraft Suppliers,20
+PRD00215,Home Home Model-215,Home & Kitchen,Home Decor,23860.42,16739.13,HomeEssentials Pvt Ltd,465
+PRD00216,Furniture Home Model-216,Home & Kitchen,Furniture,21979.75,16248.53,HomeEssentials Pvt Ltd,53
+PRD00217,Storage Home Model-217,Home & Kitchen,Storage,9081.79,5252.81,KitchenCraft Suppliers,173
+PRD00218,Furniture Home Model-218,Home & Kitchen,Furniture,12553.99,8399.28,KitchenCraft Suppliers,790
+PRD00219,Home Home Model-219,Home & Kitchen,Home Decor,13099.57,9995.57,KitchenCraft Suppliers,73
+PRD00220,Cookware Home Model-220,Home & Kitchen,Cookware,24205.72,13848.14,HomeEssentials Pvt Ltd,782
+PRD00221,Cookware Home Model-221,Home & Kitchen,Cookware,10205.78,5955.11,HomeEssentials Pvt Ltd,322
+PRD00222,Home Home Model-222,Home & Kitchen,Home Decor,10628.71,7930.79,HomeEssentials Pvt Ltd,929
+PRD00223,Storage Home Model-223,Home & Kitchen,Storage,17660.88,10653.77,KitchenCraft Suppliers,441
+PRD00224,Home Home Model-224,Home & Kitchen,Home Decor,15507.76,12330.46,KitchenCraft Suppliers,325
+PRD00225,Cookware Home Model-225,Home & Kitchen,Cookware,14829.55,9610.45,HomeEssentials Pvt Ltd,878
+PRD00226,Furniture Home Model-226,Home & Kitchen,Furniture,2455.94,1796.76,KitchenCraft Suppliers,268
+PRD00227,Cookware Home Model-227,Home & Kitchen,Cookware,12946.45,9656.93,KitchenCraft Suppliers,561
+PRD00228,Storage Home Model-228,Home & Kitchen,Storage,15627.37,11964.17,HomeEssentials Pvt Ltd,152
+PRD00229,Cookware Home Model-229,Home & Kitchen,Cookware,19952.3,13265.02,HomeEssentials Pvt Ltd,420
+PRD00230,Storage Home Model-230,Home & Kitchen,Storage,12403.98,7623.0,KitchenCraft Suppliers,88
+PRD00231,Furniture Home Model-231,Home & Kitchen,Furniture,24504.79,16495.51,KitchenCraft Suppliers,224
+PRD00232,Furniture Home Model-232,Home & Kitchen,Furniture,5385.65,3742.56,KitchenCraft Suppliers,990
+PRD00233,Storage Home Model-233,Home & Kitchen,Storage,2080.49,1211.3,KitchenCraft Suppliers,202
+PRD00234,Cookware Home Model-234,Home & Kitchen,Cookware,14701.78,9557.26,KitchenCraft Suppliers,931
+PRD00235,Cookware Home Model-235,Home & Kitchen,Cookware,16093.33,9583.1,KitchenCraft Suppliers,715
+PRD00236,Furniture Home Model-236,Home & Kitchen,Furniture,10408.61,7999.84,HomeEssentials Pvt Ltd,686
+PRD00237,Home Home Model-237,Home & Kitchen,Home Decor,16755.1,9937.11,HomeEssentials Pvt Ltd,653
+PRD00238,Storage Home Model-238,Home & Kitchen,Storage,5750.68,4344.34,HomeEssentials Pvt Ltd,485
+PRD00239,Home Home Model-239,Home & Kitchen,Home Decor,7108.32,4224.14,KitchenCraft Suppliers,424
+PRD00240,Cookware Home Model-240,Home & Kitchen,Cookware,13807.69,9439.02,KitchenCraft Suppliers,543
+PRD00241,Furniture Home Model-241,Home & Kitchen,Furniture,5316.28,3408.09,HomeEssentials Pvt Ltd,97
+PRD00242,Storage Home Model-242,Home & Kitchen,Storage,8385.8,5286.37,KitchenCraft Suppliers,813
+PRD00243,Furniture Home Model-243,Home & Kitchen,Furniture,20025.18,14157.3,KitchenCraft Suppliers,258
+PRD00244,Storage Home Model-244,Home & Kitchen,Storage,12888.61,7594.54,KitchenCraft Suppliers,67
+PRD00245,Cookware Home Model-245,Home & Kitchen,Cookware,1713.79,1061.21,KitchenCraft Suppliers,276
+PRD00246,Storage Home Model-246,Home & Kitchen,Storage,2295.11,1605.02,HomeEssentials Pvt Ltd,711
+PRD00247,Home Home Model-247,Home & Kitchen,Home Decor,5391.07,3464.4,HomeEssentials Pvt Ltd,745
+PRD00248,Storage Home Model-248,Home & Kitchen,Storage,6054.93,4480.58,KitchenCraft Suppliers,97
+PRD00249,Storage Home Model-249,Home & Kitchen,Storage,11670.32,8599.48,KitchenCraft Suppliers,545
+PRD00250,Beverages Grocery Model-250,Grocery,Beverages,194.33,113.35,FreshMart Supply Chain,22
+PRD00251,Personal Grocery Model-251,Grocery,Personal Care,1076.34,729.67,DailyNeeds Distributors,770
+PRD00252,Snacks Grocery Model-252,Grocery,Snacks,55.96,42.91,FreshMart Supply Chain,825
+PRD00253,Snacks Grocery Model-253,Grocery,Snacks,648.49,395.98,DailyNeeds Distributors,650
+PRD00254,Staples Grocery Model-254,Grocery,Staples,465.2,258.19,FreshMart Supply Chain,972
+PRD00255,Staples Grocery Model-255,Grocery,Staples,1012.04,579.19,DailyNeeds Distributors,145
+PRD00256,Snacks Grocery Model-256,Grocery,Snacks,161.32,124.64,DailyNeeds Distributors,231
+PRD00257,Personal Grocery Model-257,Grocery,Personal Care,579.28,370.03,DailyNeeds Distributors,252
+PRD00258,Beverages Grocery Model-258,Grocery,Beverages,608.16,347.7,FreshMart Supply Chain,130
+PRD00259,Beverages Grocery Model-259,Grocery,Beverages,889.45,613.22,FreshMart Supply Chain,955
+PRD00260,Snacks Grocery Model-260,Grocery,Snacks,529.36,308.03,DailyNeeds Distributors,444
+PRD00261,Staples Grocery Model-261,Grocery,Staples,418.19,324.06,DailyNeeds Distributors,339
+PRD00262,Snacks Grocery Model-262,Grocery,Snacks,693.52,443.18,FreshMart Supply Chain,896
+PRD00263,Beverages Grocery Model-263,Grocery,Beverages,409.81,321.05,DailyNeeds Distributors,456
+PRD00264,Personal Grocery Model-264,Grocery,Personal Care,140.1,82.41,DailyNeeds Distributors,522
+PRD00265,Snacks Grocery Model-265,Grocery,Snacks,595.62,454.28,FreshMart Supply Chain,465
+PRD00266,Personal Grocery Model-266,Grocery,Personal Care,356.41,211.47,DailyNeeds Distributors,842
+PRD00267,Personal Grocery Model-267,Grocery,Personal Care,1013.93,570.75,DailyNeeds Distributors,562
+PRD00268,Personal Grocery Model-268,Grocery,Personal Care,504.27,401.19,DailyNeeds Distributors,242
+PRD00269,Staples Grocery Model-269,Grocery,Staples,1078.0,748.13,DailyNeeds Distributors,94
+PRD00270,Snacks Grocery Model-270,Grocery,Snacks,1041.3,785.42,DailyNeeds Distributors,900
+PRD00271,Beverages Grocery Model-271,Grocery,Beverages,599.08,437.76,DailyNeeds Distributors,593
+PRD00272,Beverages Grocery Model-272,Grocery,Beverages,1116.66,769.59,FreshMart Supply Chain,411
+PRD00273,Beverages Grocery Model-273,Grocery,Beverages,582.41,442.43,DailyNeeds Distributors,664
+PRD00274,Personal Grocery Model-274,Grocery,Personal Care,240.71,151.87,DailyNeeds Distributors,806
+PRD00275,Beverages Grocery Model-275,Grocery,Beverages,255.42,187.49,DailyNeeds Distributors,159
+PRD00276,Personal Grocery Model-276,Grocery,Personal Care,155.51,109.27,FreshMart Supply Chain,339
+PRD00277,Staples Grocery Model-277,Grocery,Staples,123.0,83.21,FreshMart Supply Chain,530
+PRD00278,Beverages Grocery Model-278,Grocery,Beverages,587.75,401.52,DailyNeeds Distributors,692
+PRD00279,Staples Grocery Model-279,Grocery,Staples,455.69,302.38,FreshMart Supply Chain,280
+PRD00280,Snacks Grocery Model-280,Grocery,Snacks,94.78,75.59,DailyNeeds Distributors,32
+PRD00281,Personal Grocery Model-281,Grocery,Personal Care,827.79,473.47,FreshMart Supply Chain,338
+PRD00282,Staples Grocery Model-282,Grocery,Staples,824.17,609.93,DailyNeeds Distributors,990
+PRD00283,Snacks Grocery Model-283,Grocery,Snacks,578.34,405.72,FreshMart Supply Chain,438
+PRD00284,Snacks Grocery Model-284,Grocery,Snacks,431.66,337.72,FreshMart Supply Chain,337
+PRD00285,Beverages Grocery Model-285,Grocery,Beverages,900.25,587.08,FreshMart Supply Chain,904
+PRD00286,Staples Grocery Model-286,Grocery,Staples,882.42,692.33,DailyNeeds Distributors,607
+PRD00287,Personal Grocery Model-287,Grocery,Personal Care,467.49,365.4,FreshMart Supply Chain,339
+PRD00288,Staples Grocery Model-288,Grocery,Staples,697.88,530.71,DailyNeeds Distributors,859
+PRD00289,Snacks Grocery Model-289,Grocery,Snacks,996.97,735.39,FreshMart Supply Chain,847
+PRD00290,Staples Grocery Model-290,Grocery,Staples,213.11,125.96,FreshMart Supply Chain,24
+PRD00291,Personal Grocery Model-291,Grocery,Personal Care,298.12,211.2,DailyNeeds Distributors,593
+PRD00292,Personal Grocery Model-292,Grocery,Personal Care,443.42,341.12,FreshMart Supply Chain,108
+PRD00293,Staples Grocery Model-293,Grocery,Staples,825.92,547.57,DailyNeeds Distributors,635
+PRD00294,Snacks Grocery Model-294,Grocery,Snacks,464.79,309.4,DailyNeeds Distributors,441
+PRD00295,Staples Grocery Model-295,Grocery,Staples,656.94,433.37,FreshMart Supply Chain,684
+PRD00296,Personal Grocery Model-296,Grocery,Personal Care,439.33,284.63,DailyNeeds Distributors,981
+PRD00297,Staples Grocery Model-297,Grocery,Staples,661.39,513.65,FreshMart Supply Chain,966
+PRD00298,Staples Grocery Model-298,Grocery,Staples,660.56,434.57,FreshMart Supply Chain,598
+PRD00299,Snacks Grocery Model-299,Grocery,Snacks,760.7,482.08,FreshMart Supply Chain,467
+PRD00300,Staples Grocery Model-300,Grocery,Staples,216.74,166.82,DailyNeeds Distributors,308
+PRD00301,Snacks Grocery Model-301,Grocery,Snacks,649.48,502.36,DailyNeeds Distributors,439
+PRD00302,Personal Grocery Model-302,Grocery,Personal Care,1197.28,883.71,FreshMart Supply Chain,430
+PRD00303,Snacks Grocery Model-303,Grocery,Snacks,897.86,501.35,FreshMart Supply Chain,617
+PRD00304,Beverages Grocery Model-304,Grocery,Beverages,862.6,580.96,FreshMart Supply Chain,861
+PRD00305,Personal Grocery Model-305,Grocery,Personal Care,423.66,320.0,FreshMart Supply Chain,178
+PRD00306,Personal Grocery Model-306,Grocery,Personal Care,467.01,310.21,FreshMart Supply Chain,967
+PRD00307,Staples Grocery Model-307,Grocery,Staples,488.8,366.27,FreshMart Supply Chain,280
+PRD00308,Snacks Grocery Model-308,Grocery,Snacks,593.9,387.36,FreshMart Supply Chain,704
+PRD00309,Snacks Grocery Model-309,Grocery,Snacks,869.64,617.69,DailyNeeds Distributors,774
+PRD00310,Staples Grocery Model-310,Grocery,Staples,687.3,501.07,DailyNeeds Distributors,302
+PRD00311,Beverages Grocery Model-311,Grocery,Beverages,427.92,254.78,DailyNeeds Distributors,861
+PRD00312,Staples Grocery Model-312,Grocery,Staples,424.18,257.41,FreshMart Supply Chain,42
+PRD00313,Snacks Grocery Model-313,Grocery,Snacks,565.17,444.69,DailyNeeds Distributors,415
+PRD00314,Personal Grocery Model-314,Grocery,Personal Care,1095.99,640.91,DailyNeeds Distributors,229
+PRD00315,Snacks Grocery Model-315,Grocery,Snacks,741.52,411.19,DailyNeeds Distributors,847
+PRD00316,Staples Grocery Model-316,Grocery,Staples,719.7,414.23,FreshMart Supply Chain,343
+PRD00317,Staples Grocery Model-317,Grocery,Staples,952.3,529.25,FreshMart Supply Chain,146
+PRD00318,Staples Grocery Model-318,Grocery,Staples,200.0,138.81,DailyNeeds Distributors,397
+PRD00319,Personal Grocery Model-319,Grocery,Personal Care,101.33,57.69,DailyNeeds Distributors,481
+PRD00320,Personal Grocery Model-320,Grocery,Personal Care,1122.55,877.15,FreshMart Supply Chain,426
+PRD00321,Beverages Grocery Model-321,Grocery,Beverages,164.92,100.43,FreshMart Supply Chain,365
+PRD00322,Beverages Grocery Model-322,Grocery,Beverages,1009.9,586.92,DailyNeeds Distributors,844
+PRD00323,Snacks Grocery Model-323,Grocery,Snacks,411.93,258.63,FreshMart Supply Chain,390
+PRD00324,Snacks Grocery Model-324,Grocery,Snacks,717.71,466.33,DailyNeeds Distributors,988
+PRD00325,Personal Grocery Model-325,Grocery,Personal Care,898.21,540.18,FreshMart Supply Chain,332
+PRD00326,Staples Grocery Model-326,Grocery,Staples,25.47,16.13,DailyNeeds Distributors,594
+PRD00327,Staples Grocery Model-327,Grocery,Staples,509.12,389.92,FreshMart Supply Chain,825
+PRD00328,Beverages Grocery Model-328,Grocery,Beverages,428.69,272.96,FreshMart Supply Chain,437
+PRD00329,Snacks Grocery Model-329,Grocery,Snacks,1103.78,769.08,DailyNeeds Distributors,974
+PRD00330,Staples Grocery Model-330,Grocery,Staples,553.88,324.14,FreshMart Supply Chain,683
+PRD00331,Personal Grocery Model-331,Grocery,Personal Care,701.61,414.92,FreshMart Supply Chain,520
+PRD00332,Snacks Grocery Model-332,Grocery,Snacks,1099.52,704.35,FreshMart Supply Chain,82
+PRD00333,Outdoor Sports Model-333,Sports & Fitness,Outdoor Sports,4271.45,2584.33,SportsPoint Wholesale,901
+PRD00334,Outdoor Sports Model-334,Sports & Fitness,Outdoor Sports,10003.19,5946.99,FitGear Traders,103
+PRD00335,Outdoor Sports Model-335,Sports & Fitness,Outdoor Sports,6965.45,4801.47,SportsPoint Wholesale,361
+PRD00336,Outdoor Sports Model-336,Sports & Fitness,Outdoor Sports,1416.53,1132.12,FitGear Traders,580
+PRD00337,Gym Sports Model-337,Sports & Fitness,Gym Equipment,4598.3,2885.36,SportsPoint Wholesale,234
+PRD00338,Outdoor Sports Model-338,Sports & Fitness,Outdoor Sports,6487.24,4865.08,SportsPoint Wholesale,337
+PRD00339,Outdoor Sports Model-339,Sports & Fitness,Outdoor Sports,3195.53,1909.88,SportsPoint Wholesale,448
+PRD00340,Outdoor Sports Model-340,Sports & Fitness,Outdoor Sports,5758.61,4371.6,SportsPoint Wholesale,38
+PRD00341,Yoga Sports Model-341,Sports & Fitness,Yoga & Wellness,1124.84,836.75,FitGear Traders,194
+PRD00342,Yoga Sports Model-342,Sports & Fitness,Yoga & Wellness,7985.1,5458.73,SportsPoint Wholesale,132
+PRD00343,Outdoor Sports Model-343,Sports & Fitness,Outdoor Sports,6100.73,4208.96,SportsPoint Wholesale,850
+PRD00344,Gym Sports Model-344,Sports & Fitness,Gym Equipment,1678.38,1063.41,FitGear Traders,74
+PRD00345,Yoga Sports Model-345,Sports & Fitness,Yoga & Wellness,14199.76,9135.09,FitGear Traders,477
+PRD00346,Outdoor Sports Model-346,Sports & Fitness,Outdoor Sports,13476.74,9186.35,FitGear Traders,106
+PRD00347,Gym Sports Model-347,Sports & Fitness,Gym Equipment,14687.11,11161.43,SportsPoint Wholesale,410
+PRD00348,Outdoor Sports Model-348,Sports & Fitness,Outdoor Sports,9934.68,5531.37,SportsPoint Wholesale,778
+PRD00349,Outdoor Sports Model-349,Sports & Fitness,Outdoor Sports,3919.5,2347.89,FitGear Traders,786
+PRD00350,Yoga Sports Model-350,Sports & Fitness,Yoga & Wellness,441.72,254.44,FitGear Traders,258
+PRD00351,Outdoor Sports Model-351,Sports & Fitness,Outdoor Sports,8605.81,6642.52,SportsPoint Wholesale,623
+PRD00352,Yoga Sports Model-352,Sports & Fitness,Yoga & Wellness,3686.25,2119.08,SportsPoint Wholesale,115
+PRD00353,Gym Sports Model-353,Sports & Fitness,Gym Equipment,14832.61,10394.68,FitGear Traders,833
+PRD00354,Outdoor Sports Model-354,Sports & Fitness,Outdoor Sports,12478.6,8102.3,SportsPoint Wholesale,184
+PRD00355,Yoga Sports Model-355,Sports & Fitness,Yoga & Wellness,2244.21,1462.32,SportsPoint Wholesale,842
+PRD00356,Gym Sports Model-356,Sports & Fitness,Gym Equipment,13460.48,7447.02,FitGear Traders,794
+PRD00357,Gym Sports Model-357,Sports & Fitness,Gym Equipment,11077.92,8441.73,SportsPoint Wholesale,643
+PRD00358,Gym Sports Model-358,Sports & Fitness,Gym Equipment,2843.5,1978.39,FitGear Traders,719
+PRD00359,Gym Sports Model-359,Sports & Fitness,Gym Equipment,10603.3,8245.72,FitGear Traders,728
+PRD00360,Gym Sports Model-360,Sports & Fitness,Gym Equipment,5225.33,3212.82,SportsPoint Wholesale,405
+PRD00361,Gym Sports Model-361,Sports & Fitness,Gym Equipment,5540.79,3094.85,SportsPoint Wholesale,551
+PRD00362,Outdoor Sports Model-362,Sports & Fitness,Outdoor Sports,9418.24,6144.02,SportsPoint Wholesale,753
+PRD00363,Yoga Sports Model-363,Sports & Fitness,Yoga & Wellness,5536.32,4236.76,SportsPoint Wholesale,886
+PRD00364,Outdoor Sports Model-364,Sports & Fitness,Outdoor Sports,14234.48,10546.35,SportsPoint Wholesale,299
+PRD00365,Gym Sports Model-365,Sports & Fitness,Gym Equipment,1845.55,1276.09,SportsPoint Wholesale,78
+PRD00366,Yoga Sports Model-366,Sports & Fitness,Yoga & Wellness,13434.0,10075.01,FitGear Traders,740
+PRD00367,Outdoor Sports Model-367,Sports & Fitness,Outdoor Sports,7348.44,4983.08,FitGear Traders,540
+PRD00368,Gym Sports Model-368,Sports & Fitness,Gym Equipment,8192.81,5803.54,FitGear Traders,378
+PRD00369,Gym Sports Model-369,Sports & Fitness,Gym Equipment,3386.86,2408.95,SportsPoint Wholesale,513
+PRD00370,Yoga Sports Model-370,Sports & Fitness,Yoga & Wellness,14768.36,10063.49,FitGear Traders,128
+PRD00371,Gym Sports Model-371,Sports & Fitness,Gym Equipment,10414.34,7506.61,SportsPoint Wholesale,857
+PRD00372,Yoga Sports Model-372,Sports & Fitness,Yoga & Wellness,13727.25,7954.09,SportsPoint Wholesale,375
+PRD00373,Yoga Sports Model-373,Sports & Fitness,Yoga & Wellness,7546.15,4277.11,SportsPoint Wholesale,696
+PRD00374,Gym Sports Model-374,Sports & Fitness,Gym Equipment,9823.24,7440.47,FitGear Traders,618
+PRD00375,Yoga Sports Model-375,Sports & Fitness,Yoga & Wellness,1731.8,1013.11,FitGear Traders,46
+PRD00376,Gym Sports Model-376,Sports & Fitness,Gym Equipment,13515.18,10386.04,SportsPoint Wholesale,187
+PRD00377,Yoga Sports Model-377,Sports & Fitness,Yoga & Wellness,3872.6,2742.86,SportsPoint Wholesale,840
+PRD00378,Outdoor Sports Model-378,Sports & Fitness,Outdoor Sports,2753.44,2143.84,SportsPoint Wholesale,941
+PRD00379,Yoga Sports Model-379,Sports & Fitness,Yoga & Wellness,6154.47,4571.1,FitGear Traders,577
+PRD00380,Gym Sports Model-380,Sports & Fitness,Gym Equipment,846.49,500.76,FitGear Traders,382
+PRD00381,Gym Sports Model-381,Sports & Fitness,Gym Equipment,2887.09,1653.1,SportsPoint Wholesale,390
+PRD00382,Outdoor Sports Model-382,Sports & Fitness,Outdoor Sports,3792.68,2455.09,FitGear Traders,315
+PRD00383,Outdoor Sports Model-383,Sports & Fitness,Outdoor Sports,6641.76,5173.12,SportsPoint Wholesale,206
+PRD00384,Gym Sports Model-384,Sports & Fitness,Gym Equipment,4561.55,3154.77,SportsPoint Wholesale,117
+PRD00385,Outdoor Sports Model-385,Sports & Fitness,Outdoor Sports,6039.64,4762.39,FitGear Traders,425
+PRD00386,Yoga Sports Model-386,Sports & Fitness,Yoga & Wellness,11028.43,6658.25,SportsPoint Wholesale,567
+PRD00387,Gym Sports Model-387,Sports & Fitness,Gym Equipment,8166.21,4822.18,FitGear Traders,263
+PRD00388,Yoga Sports Model-388,Sports & Fitness,Yoga & Wellness,912.72,615.26,FitGear Traders,384
+PRD00389,Gym Sports Model-389,Sports & Fitness,Gym Equipment,2446.04,1726.5,FitGear Traders,469
+PRD00390,Gym Sports Model-390,Sports & Fitness,Gym Equipment,1732.09,985.19,SportsPoint Wholesale,36
+PRD00391,Gym Sports Model-391,Sports & Fitness,Gym Equipment,6279.4,4560.3,SportsPoint Wholesale,635
+PRD00392,Outdoor Sports Model-392,Sports & Fitness,Outdoor Sports,6606.62,4040.61,FitGear Traders,150
+PRD00393,Outdoor Sports Model-393,Sports & Fitness,Outdoor Sports,1303.89,717.9,SportsPoint Wholesale,454
+PRD00394,Yoga Sports Model-394,Sports & Fitness,Yoga & Wellness,4190.63,2923.21,SportsPoint Wholesale,294
+PRD00395,Yoga Sports Model-395,Sports & Fitness,Yoga & Wellness,4821.07,3624.76,FitGear Traders,836
+PRD00396,Outdoor Sports Model-396,Sports & Fitness,Outdoor Sports,2180.89,1717.58,SportsPoint Wholesale,842
+PRD00397,Yoga Sports Model-397,Sports & Fitness,Yoga & Wellness,7890.84,4511.01,FitGear Traders,611
+PRD00398,Outdoor Sports Model-398,Sports & Fitness,Outdoor Sports,13113.12,9612.65,SportsPoint Wholesale,680
+PRD00399,Yoga Sports Model-399,Sports & Fitness,Yoga & Wellness,11421.44,8349.37,FitGear Traders,995
+PRD00400,Outdoor Sports Model-400,Sports & Fitness,Outdoor Sports,12760.4,7814.69,FitGear Traders,108
+PRD00401,Gym Sports Model-401,Sports & Fitness,Gym Equipment,9752.62,7054.01,FitGear Traders,508
+PRD00402,Yoga Sports Model-402,Sports & Fitness,Yoga & Wellness,14169.23,7932.74,SportsPoint Wholesale,797
+PRD00403,Outdoor Sports Model-403,Sports & Fitness,Outdoor Sports,8885.31,7106.81,SportsPoint Wholesale,813
+PRD00404,Outdoor Sports Model-404,Sports & Fitness,Outdoor Sports,8583.55,6685.49,FitGear Traders,801
+PRD00405,Gym Sports Model-405,Sports & Fitness,Gym Equipment,1938.88,1420.73,SportsPoint Wholesale,902
+PRD00406,Outdoor Sports Model-406,Sports & Fitness,Outdoor Sports,13877.21,11001.36,SportsPoint Wholesale,746
+PRD00407,Yoga Sports Model-407,Sports & Fitness,Yoga & Wellness,11960.62,8806.2,SportsPoint Wholesale,391
+PRD00408,Outdoor Sports Model-408,Sports & Fitness,Outdoor Sports,12691.4,7992.73,SportsPoint Wholesale,509
+PRD00409,Outdoor Sports Model-409,Sports & Fitness,Outdoor Sports,9721.16,6926.73,FitGear Traders,171
+PRD00410,Gym Sports Model-410,Sports & Fitness,Gym Equipment,3564.86,2068.12,FitGear Traders,117
+PRD00411,Gym Sports Model-411,Sports & Fitness,Gym Equipment,13292.11,9072.75,FitGear Traders,202
+PRD00412,Gym Sports Model-412,Sports & Fitness,Gym Equipment,6156.01,4266.77,FitGear Traders,907
+PRD00413,Yoga Sports Model-413,Sports & Fitness,Yoga & Wellness,8160.99,6101.82,SportsPoint Wholesale,940
+PRD00414,Outdoor Sports Model-414,Sports & Fitness,Outdoor Sports,11106.9,7553.16,SportsPoint Wholesale,512
+PRD00415,Yoga Sports Model-415,Sports & Fitness,Yoga & Wellness,9295.18,5653.7,FitGear Traders,330
+PRD00416,Academic Books Model-416,Books & Stationery,Academic,1181.22,942.12,OfficeMart Supplies,270
+PRD00417,Academic Books Model-417,Books & Stationery,Academic,2192.89,1496.06,PageTurner Distributors,435
+PRD00418,Fiction Books Model-418,Books & Stationery,Fiction,2334.78,1325.0,OfficeMart Supplies,833
+PRD00419,Office Books Model-419,Books & Stationery,Office Supplies,908.59,673.99,PageTurner Distributors,496
+PRD00420,Academic Books Model-420,Books & Stationery,Academic,141.15,94.56,PageTurner Distributors,291
+PRD00421,Fiction Books Model-421,Books & Stationery,Fiction,2190.38,1743.59,PageTurner Distributors,285
+PRD00422,Office Books Model-422,Books & Stationery,Office Supplies,273.76,173.59,OfficeMart Supplies,359
+PRD00423,Office Books Model-423,Books & Stationery,Office Supplies,1856.81,1132.09,PageTurner Distributors,22
+PRD00424,Fiction Books Model-424,Books & Stationery,Fiction,1194.38,745.59,OfficeMart Supplies,343
+PRD00425,Academic Books Model-425,Books & Stationery,Academic,1802.82,1257.07,PageTurner Distributors,451
+PRD00426,Office Books Model-426,Books & Stationery,Office Supplies,92.81,73.96,PageTurner Distributors,604
+PRD00427,Fiction Books Model-427,Books & Stationery,Fiction,317.31,205.59,OfficeMart Supplies,983
+PRD00428,Fiction Books Model-428,Books & Stationery,Fiction,583.94,459.85,PageTurner Distributors,80
+PRD00429,Academic Books Model-429,Books & Stationery,Academic,683.77,476.68,OfficeMart Supplies,826
+PRD00430,Office Books Model-430,Books & Stationery,Office Supplies,2203.72,1732.53,PageTurner Distributors,30
+PRD00431,Fiction Books Model-431,Books & Stationery,Fiction,2264.03,1805.1,OfficeMart Supplies,730
+PRD00432,Office Books Model-432,Books & Stationery,Office Supplies,2478.35,1506.63,PageTurner Distributors,679
+PRD00433,Academic Books Model-433,Books & Stationery,Academic,2102.51,1277.57,PageTurner Distributors,262
+PRD00434,Academic Books Model-434,Books & Stationery,Academic,1305.6,793.37,PageTurner Distributors,245
+PRD00435,Academic Books Model-435,Books & Stationery,Academic,990.41,553.82,PageTurner Distributors,525
+PRD00436,Academic Books Model-436,Books & Stationery,Academic,1959.76,1249.41,PageTurner Distributors,792
+PRD00437,Fiction Books Model-437,Books & Stationery,Fiction,1592.59,962.05,PageTurner Distributors,540
+PRD00438,Office Books Model-438,Books & Stationery,Office Supplies,2322.92,1855.38,PageTurner Distributors,592
+PRD00439,Office Books Model-439,Books & Stationery,Office Supplies,686.83,466.23,OfficeMart Supplies,869
+PRD00440,Academic Books Model-440,Books & Stationery,Academic,1754.95,1032.74,OfficeMart Supplies,179
+PRD00441,Office Books Model-441,Books & Stationery,Office Supplies,1184.75,836.12,OfficeMart Supplies,912
+PRD00442,Office Books Model-442,Books & Stationery,Office Supplies,1365.12,953.17,PageTurner Distributors,929
+PRD00443,Academic Books Model-443,Books & Stationery,Academic,2157.17,1433.13,OfficeMart Supplies,971
+PRD00444,Fiction Books Model-444,Books & Stationery,Fiction,699.99,407.66,OfficeMart Supplies,668
+PRD00445,Academic Books Model-445,Books & Stationery,Academic,157.77,120.39,OfficeMart Supplies,189
+PRD00446,Office Books Model-446,Books & Stationery,Office Supplies,2033.12,1451.26,OfficeMart Supplies,280
+PRD00447,Academic Books Model-447,Books & Stationery,Academic,1851.01,1148.27,OfficeMart Supplies,143
+PRD00448,Academic Books Model-448,Books & Stationery,Academic,962.46,591.85,PageTurner Distributors,920
+PRD00449,Office Books Model-449,Books & Stationery,Office Supplies,168.57,115.16,PageTurner Distributors,56
+PRD00450,Office Books Model-450,Books & Stationery,Office Supplies,588.67,424.32,OfficeMart Supplies,984
+PRD00451,Office Books Model-451,Books & Stationery,Office Supplies,2479.11,1401.64,PageTurner Distributors,320
+PRD00452,Academic Books Model-452,Books & Stationery,Academic,1226.92,856.52,PageTurner Distributors,717
+PRD00453,Academic Books Model-453,Books & Stationery,Academic,1449.3,1037.01,PageTurner Distributors,59
+PRD00454,Fiction Books Model-454,Books & Stationery,Fiction,1435.61,885.42,OfficeMart Supplies,281
+PRD00455,Fiction Books Model-455,Books & Stationery,Fiction,1326.61,1017.56,PageTurner Distributors,111
+PRD00456,Fiction Books Model-456,Books & Stationery,Fiction,2133.78,1636.23,OfficeMart Supplies,700
+PRD00457,Office Books Model-457,Books & Stationery,Office Supplies,867.66,528.99,OfficeMart Supplies,712
+PRD00458,Office Books Model-458,Books & Stationery,Office Supplies,1716.03,1209.21,OfficeMart Supplies,441
+PRD00459,Office Books Model-459,Books & Stationery,Office Supplies,512.78,395.05,OfficeMart Supplies,576
+PRD00460,Office Books Model-460,Books & Stationery,Office Supplies,2185.89,1218.22,PageTurner Distributors,554
+PRD00461,Office Books Model-461,Books & Stationery,Office Supplies,61.61,46.51,PageTurner Distributors,456
+PRD00462,Academic Books Model-462,Books & Stationery,Academic,1871.34,1104.45,OfficeMart Supplies,375
+PRD00463,Academic Books Model-463,Books & Stationery,Academic,1412.2,1043.84,PageTurner Distributors,543
+PRD00464,Academic Books Model-464,Books & Stationery,Academic,64.65,40.2,PageTurner Distributors,65
+PRD00465,Academic Books Model-465,Books & Stationery,Academic,849.09,585.84,OfficeMart Supplies,379
+PRD00466,Office Books Model-466,Books & Stationery,Office Supplies,685.78,485.88,PageTurner Distributors,875
+PRD00467,Academic Books Model-467,Books & Stationery,Academic,2055.58,1196.58,OfficeMart Supplies,486
+PRD00468,Fiction Books Model-468,Books & Stationery,Fiction,1914.28,1311.89,PageTurner Distributors,243
+PRD00469,Fiction Books Model-469,Books & Stationery,Fiction,2108.14,1366.15,OfficeMart Supplies,354
+PRD00470,Office Books Model-470,Books & Stationery,Office Supplies,2333.4,1343.17,OfficeMart Supplies,215
+PRD00471,Fiction Books Model-471,Books & Stationery,Fiction,474.87,352.69,OfficeMart Supplies,343
+PRD00472,Fiction Books Model-472,Books & Stationery,Fiction,786.66,571.94,PageTurner Distributors,937
+PRD00473,Office Books Model-473,Books & Stationery,Office Supplies,1785.71,1193.56,PageTurner Distributors,41
+PRD00474,Office Books Model-474,Books & Stationery,Office Supplies,1570.86,881.94,OfficeMart Supplies,325
+PRD00475,Fiction Books Model-475,Books & Stationery,Fiction,2475.85,1780.17,PageTurner Distributors,735
+PRD00476,Fiction Books Model-476,Books & Stationery,Fiction,1886.4,1098.87,PageTurner Distributors,400
+PRD00477,Fiction Books Model-477,Books & Stationery,Fiction,989.23,560.31,PageTurner Distributors,52
+PRD00478,Office Books Model-478,Books & Stationery,Office Supplies,842.17,566.07,OfficeMart Supplies,966
+PRD00479,Fiction Books Model-479,Books & Stationery,Fiction,667.9,367.52,OfficeMart Supplies,501
+PRD00480,Fiction Books Model-480,Books & Stationery,Fiction,719.66,575.21,PageTurner Distributors,996
+PRD00481,Fiction Books Model-481,Books & Stationery,Fiction,299.48,228.67,PageTurner Distributors,290
+PRD00482,Office Books Model-482,Books & Stationery,Office Supplies,1997.08,1444.73,PageTurner Distributors,903
+PRD00483,Fiction Books Model-483,Books & Stationery,Fiction,2107.71,1566.46,PageTurner Distributors,103
+PRD00484,Fiction Books Model-484,Books & Stationery,Fiction,1653.21,1022.2,PageTurner Distributors,868
+PRD00485,Fiction Books Model-485,Books & Stationery,Fiction,2409.89,1344.3,PageTurner Distributors,40
+PRD00486,Fiction Books Model-486,Books & Stationery,Fiction,2278.24,1741.35,PageTurner Distributors,103
+PRD00487,Fiction Books Model-487,Books & Stationery,Fiction,1023.5,633.09,PageTurner Distributors,406
+PRD00488,Fiction Books Model-488,Books & Stationery,Fiction,813.59,512.71,PageTurner Distributors,953
+PRD00489,Office Books Model-489,Books & Stationery,Office Supplies,612.62,369.58,OfficeMart Supplies,851
+PRD00490,Academic Books Model-490,Books & Stationery,Academic,2176.77,1586.28,OfficeMart Supplies,805
+PRD00491,Academic Books Model-491,Books & Stationery,Academic,2167.54,1448.57,PageTurner Distributors,603
+PRD00492,Fiction Books Model-492,Books & Stationery,Fiction,439.31,263.99,PageTurner Distributors,624
+PRD00493,Office Books Model-493,Books & Stationery,Office Supplies,1952.44,1450.14,OfficeMart Supplies,705
+PRD00494,Office Books Model-494,Books & Stationery,Office Supplies,1348.9,747.92,OfficeMart Supplies,368
+PRD00495,Fiction Books Model-495,Books & Stationery,Fiction,370.68,206.89,PageTurner Distributors,847
+PRD00496,Office Books Model-496,Books & Stationery,Office Supplies,2420.37,1443.42,PageTurner Distributors,546
+PRD00497,Academic Books Model-497,Books & Stationery,Academic,1229.21,712.11,PageTurner Distributors,292
+PRD00498,Academic Books Model-498,Books & Stationery,Academic,1537.51,940.78,OfficeMart Supplies,540

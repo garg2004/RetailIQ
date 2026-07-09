@@ -1,0 +1,41 @@
+// RetailIQ — Power BI DAX Measures
+// Copy-paste these into a Power BI measure table called "_Measures"
+// See PowerBI_Setup_Guide.md for full context on the data model these assume.
+
+Total Revenue = SUM(vw_sales_full[sales_amount])
+
+Total Profit = SUM(vw_sales_full[profit_amount])
+
+Total Orders = DISTINCTCOUNT(vw_sales_full[order_id])
+
+Total Units Sold = SUM(vw_sales_full[quantity])
+
+Avg Order Value = DIVIDE([Total Revenue], [Total Orders])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue])
+
+Revenue LY = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(DateTable[Date]))
+
+Revenue Growth % = DIVIDE([Total Revenue] - [Revenue LY], [Revenue LY])
+
+Revenue MTD = TOTALMTD([Total Revenue], DateTable[Date])
+
+Revenue Rolling 3M Avg =
+AVERAGEX(
+    DATESINPERIOD(DateTable[Date], LASTDATE(DateTable[Date]), -3, MONTH),
+    [Total Revenue]
+)
+
+Top Product Rank = RANKX(ALL(vw_sales_full[product_name]), [Total Revenue])
+
+Customer Tier =
+SWITCH(
+    TRUE(),
+    [Total Revenue] >= 100000, "Platinum",
+    [Total Revenue] >= 50000,  "Gold",
+    [Total Revenue] >= 20000,  "Silver",
+    "Bronze"
+)
+
+Low Stock Flag =
+IF(SUM(inventory[stock_quantity]) < SUM(inventory[reorder_level]), "Reorder", "OK")

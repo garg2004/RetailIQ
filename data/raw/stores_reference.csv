@@ -1,0 +1,11 @@
+Store_ID,Store_Name,Region
+ST001,RetailIQ Delhi Central,North
+ST002,RetailIQ Noida Hub,North
+ST003,RetailIQ Bengaluru Tech Park,South
+ST004,RetailIQ Chennai Marina,South
+ST005,RetailIQ Mumbai Andheri,West
+ST006,RetailIQ Pune Camp,West
+ST007,RetailIQ Kolkata Park St,East
+ST008,RetailIQ Jaipur Malviya Nagar,West
+ST009,RetailIQ Hyderabad Hitech City,South
+ST010,RetailIQ Patna Boring Road,East

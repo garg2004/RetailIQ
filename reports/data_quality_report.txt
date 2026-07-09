@@ -1,0 +1,13 @@
+Loaded raw data: 60900 rows, 21 columns
+Fixed 304 negative Quantity values (converted to absolute value)
+Found 304 invalid/unparsable dates -> rows dropped
+Removed 886 exact duplicate rows
+Missing values before imputation:
+Customer_Name     1195
+City               596
+Discount           890
+Payment_Method     598
+Total remaining missing values after imputation: 0
+Capped 4234 outliers in Sales via per-category IQR method
+
+Saved cleaned dataset: data/cleaned/retail_sales_cleaned.csv -> 59710 rows, 28 columns

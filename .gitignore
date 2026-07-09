@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# Databases
+*.db
+retailiq_demo.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Power BI temp files
+*.pbix.bak
+~$*.pbix
+
+# Large generated data (comment out if you want to commit sample data)
+# data/raw/*.csv
+# data/cleaned/*.csv
