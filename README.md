@@ -184,11 +184,8 @@ uvicorn api.main:app --reload --port 8000
 With the API running, open `dashboard/html/index.html` directly in a browser
 (or serve it: `python -m http.server 5500` from the `dashboard/html` folder).
 
-### 6. Power BI dashboard
-See `powerbi/PowerBI_Setup_Guide.md` for a full step-by-step walkthrough
-(data model, DAX measures, visuals, slicers).
 
-### 7. Notebooks
+### 6. Notebooks
 ```bash
 jupyter notebook notebooks/
 ```
